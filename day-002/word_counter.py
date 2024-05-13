@@ -5,7 +5,7 @@ def count_words(text):
     return len(words)
 
 def main():
-    with open('sample_text.txt', 'r') as file:
+    with open('C:/Users/malhi/OneDrive/Desktop/Git Demo/100-days-of-code/day-002/sample_text.txt', 'r') as file:
         text = file.read()
         word_count = count_words(text)
         print(f"Number of words in the text: {word_count}")
