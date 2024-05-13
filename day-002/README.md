@@ -21,6 +21,11 @@ Today, I delved into the realm of text analysis with a simple yet powerful tool:
 - Implement functionality to exclude common stop words from the word count.
 - Add support for analyzing multiple text files simultaneously.
 
+## Output:
+
+![Output](Output.png)
+
+
 Feeling accomplished with the progress made so far! ✨ Onwards to Day 3!
 
 ---
