@@ -33,7 +33,7 @@ Late start, but unstoppable momentum. Let's code our way to financial freedom!
 **📊 Output:**
 According to my Data putting
 
-- **Visualize Spending:** [View Output](Output.png)
+- **Visualize Spending:** ![View Output](Output.png)
 
 ---
 
