@@ -24,8 +24,8 @@ This project has been an exhilarating journey of growth and discovery, empowerin
 **📝 How to Use:**
 
 1. **Install Python:** If you haven't already, [download and install Python](https://www.python.org/downloads/) on your computer.
-2. **Install Required Libraries:** Open your terminal or command prompt and install the required libraries using the following commands:
-    pip install random
+2. **Install Required Libraries:** Open your terminal or command prompt and install the required libraries using the following commands:<br>
+    pip install random <br>
     pip install string
 3. **Run the Script:** Navigate to the project directory in your terminal or command prompt, and run the script using the command `python password_generator.py`.
 4. **Generate Passwords:** Follow the on-screen prompts to specify password length and character types, and generate ultra-secure passwords.
