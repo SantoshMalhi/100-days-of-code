@@ -35,7 +35,7 @@ Write in that and create a programs by file handling method
 **🌟 Let's Connect:**
 
 - Connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
-- Explore more projects: [GitHub Profile](https://github.com/your-username)
+- Explore more projects: [GitHub Profile](https://github.com/SantoshMalhi)
 
 ---
 
