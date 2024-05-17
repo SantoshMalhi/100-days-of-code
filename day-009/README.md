@@ -12,9 +12,9 @@ This repository contains examples of fundamental data structures implemented in 
 - **Queues:** FIFO (First In First Out) structure implemented using Python's `collections.deque` with enqueue and dequeue operations.
 
 ## Usage
-To run the script, execute the following command in your terminal:
-```sh
-# python data_structures.py
+<!-- To run the script, execute the following command in your terminal: -->
+<!-- ```sh -->
+python data_structures.py
 
 
 **📊 Output:**
